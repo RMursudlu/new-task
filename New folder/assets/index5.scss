@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 20px;
+    span{
+        color: green;
+    }
+}
+body, html{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    
+}
+main{
+    display: flex;
+    margin: 250px;
+    text-align: center;
+    display: flex;
+}
+.sphotos{
+    display: flex;
+    .first,.second{
+        margin-right: 30px;
+        width: 350px;
+    }
+    margin-top: 180px;
+    margin-left: 80px;
+}
+.bphoto{
+    display: flex;
+    img{
+        width: 700px;
+    }
+}

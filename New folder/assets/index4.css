@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 20px;
+}
+* span {
+  color: green;
+}
+
+body, html {
+  width: 100%;
+  height: 100vh;
+}
+
+main {
+  display: flex;
+  margin: 250px;
+  text-align: center;
+}
+
+.sphotos {
+  display: flex;
+}
+.sphotos .first, .sphotos .second {
+  margin-right: 30px;
+  width: 350px;
+}
+
+.bphoto img {
+  width: 700px;
+}/*# sourceMappingURL=index4.css.map */

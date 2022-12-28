@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 20px;
+  color: grey;
+}
+* h3 {
+  color: rgb(4, 4, 66);
+}
+* span {
+  color: green;
+}
+
+body, html {
+  width: 100%;
+  height: 100vh;
+}
+
+.topwords {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.topwords .top {
+  font-size: 30px;
+}
+.topwords h3 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.top_photos {
+  display: flex;
+  text-align: center;
+  margin-left: 480px;
+}
+
+.mid_photos {
+  display: flex;
+  text-align: center;
+  margin-left: 480px;
+}
+
+.firsts, .seconds, .thirds {
+  height: 400px;
+  margin-right: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}/*# sourceMappingURL=index2.css.map */

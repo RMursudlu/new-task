@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 20px;
+}
+
+body, html {
+  width: 100%;
+  height: 100vh;
+}
+
+.main_header {
+  text-align: center;
+}
+.main_header h3 {
+  font-size: 25px;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+.main_header p {
+  margin-bottom: 50px;
+}
+.main_header button {
+  font-size: 15px;
+  height: 40px;
+  width: 90px;
+  border-radius: 50px;
+  color: cyan;
+  border-color: cyan;
+  margin-bottom: 80px;
+  background-color: inherit;
+}
+
+h3 {
+  color: 59;
+  text-align: center;
+}
+
+.photos {
+  display: flex;
+  margin-left: 590px;
+  margin-bottom: 40px;
+}
+
+.secondp {
+  display: flex;
+  margin-left: 590px;
+}
+
+li {
+  text-align: center;
+}
+
+.iphone {
+  width: 180px;
+  height: 180px;
+}
+
+.spinner {
+  width: 180px;
+  height: 180px;
+}
+
+.watch {
+  width: 180px;
+  height: 180px;
+}
+
+ul .blue {
+  border-color: cyan;
+}
+ul .green {
+  color: green;
+}
+ul .red {
+  color: red;
+}
+ul .black {
+  color: black;
+}
+
+span {
+  color: rgb(5, 105, 5);
+  opacity: 0.6;
+}
+
+.apple {
+  margin-right: 100px;
+}
+
+.fidget {
+  margin-right: 100px;
+}/*# sourceMappingURL=index.css.map */
